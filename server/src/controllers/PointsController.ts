@@ -19,7 +19,7 @@ class PointsCpontroller {
 
         const serializedItems = points.map(point  => {
             return {
-                ...points,
+                ...point,
                 image_url : `http://192.168.0.116:3333/uploads/${point.image}`
             }
         })  

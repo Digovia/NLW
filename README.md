@@ -1,7 +1,9 @@
-# NLW
-Next Level Week da RocketSeat - Uma semana para acelerar sua evolução como dev e avançar para o próximo nível.
+<h1 align="center">
+    <img alt="React Next Level Week" src="" />
+    <br>
+    Next Level Week
+</h1>
 
-
-## Projeto desenvolvido em React e React Native
-
-## API desenvolvida em NodeJS com Express em RestFul
+<h4 align="center">
+  NetShoes Clone App with React and Redux.
+</h4>
